@@ -1,5 +1,3 @@
-aulas 63 até 67
-pdo dao select,  list insert, update e delete
 
 <?php
 
